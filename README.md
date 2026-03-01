@@ -24,6 +24,15 @@ O design do Conversor de Temperatura é moderno e intuitivo, com uma paleta de c
 
 A interface é responsiva, garantindo uma boa experiência em dispositivos móveis e desktops.
 
+## Previem: Interface do Conversor de Temperatura
+
+  <p>A imagem "previem" ilustra a interface do Conversor de Temperatura, uma ferramenta prática e intuitiva para converter <br>
+    temperaturas entre Celsius, Fahrenheit e Kelvin. Com um design moderno,a interface foi criada para proporcionar<br>
+    uma experiência de usuário fluida e agradável.</p>
+    
+<img width="512" height="345" alt="image" src="https://github.com/user-attachments/assets/6eb60a97-5bf3-4ab2-9009-d6db768a0a04" />
+
+
 ## Infomações do repositório
 
 [![Stars](https://img.shields.io/github/stars/akroelGOTY/Temperature-Converter.svg?style=social)](https://github.com/akroelGOTY/Temperature-Converter/stargazers)
