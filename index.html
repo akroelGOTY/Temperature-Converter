@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temperature Converter</title>
+    <script src="./app.js"></script>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="shortcut icon" href="./assets/favicon.png" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="bg-container-linear-gradient">
+        <h1>Temperature Converter</h1>
+        <p>O Temperature-Converter é uma aplicação web que
+            permite converter temperaturas entre diferentes
+            escalas: Celsius, Fahrenheit e Kelvin.
+        </p>
+        <div class="converter">
+          <input type="number" id="inputValue" placeholder="Enter value" />
+          <select id="inputUnit">
+            <option value="C">Celsius (°C)</option>
+            <option value="F">Fahrenheit (°F)</option>
+            <option value="K">Kelvin (K)</option>
+          </select>
+          <button id="convertButton" onclick="converter()">Convert</button>
+        </div>
+      </div>
+      <div class="result">
+        <p id="resultText">Kl-@#+!5_</p>
+    </div>
+    </div>
+  </body>
+</html>
