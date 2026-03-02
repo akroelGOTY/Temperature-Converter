@@ -34,7 +34,8 @@ A interface é responsiva, garantindo uma boa experiência em dispositivos móve
     temperaturas entre Celsius, Fahrenheit e Kelvin. Com um design moderno,a interface foi criada para proporcionar<br>
     uma experiência de usuário fluida e agradável.</p>
     
-<img width="512" height="345" alt="image" src="https://github.com/user-attachments/assets/6eb60a97-5bf3-4ab2-9009-d6db768a0a04" />
+<img width="451" height="305" alt="image" src="https://github.com/user-attachments/assets/1cb79580-ecdc-40d6-9773-cc622c65d1d0" />
+
 
 
 ## Infomações do repositório
