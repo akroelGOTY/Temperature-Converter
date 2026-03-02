@@ -9,10 +9,12 @@ O **Temperature-Converter** é uma aplicação web que permite converter tempera
 * **HTML**: Para a estrutura da página.
 * **CSS**: Para o estilo e design da interface.
 * **JavaScript**: Para a lógica de conversão e interação do usuário.
+  * **Netlify**: Hospedagem de sites gratuitamente.
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   
 
 ## Design e Cores
@@ -51,7 +53,7 @@ A interface é responsiva, garantindo uma boa experiência em dispositivos móve
 3. Insira a temperatura que deseja converter.
 4. Selecione a escala de origem (Celsius, Fahrenheit ou Kelvin).
 5. Clique no botão "Converter" para ver os resultados.
-6. Acessar o site do projeto https://akroelgoty.github.io/Temperature-Converter/
+6. Acessar o site do projeto `https://temperature-converted.netlify.app`
 
 ## Contribuições
 
