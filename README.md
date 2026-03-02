@@ -21,6 +21,10 @@ O design do Conversor de Temperatura é moderno e intuitivo, com uma paleta de c
 
 * **#68AEFF**: Um azul claro que representa frescor e clareza.
 * **#003EB7**: Um azul escuro que traz profundidade e contraste.
+  * **#152439**: Um azul escuro usado no button.
+  * **#0C87FA**: Um azul claro usando no efeito de hover.
+* **#757575**: Um cinza de placeholder mais moderno.
+* **#DBDBDB**: Um cinza usado no paragraph com um contraste maior.
 
 A interface é responsiva, garantindo uma boa experiência em dispositivos móveis e desktops.
 
@@ -41,11 +45,12 @@ A interface é responsiva, garantindo uma boa experiência em dispositivos móve
 
 ## Como Usar
 
-1. Clone o repositório ou baixe o arquivo ZIP.
+1. Clone o repositório.
 2. Abra o arquivo `index.html` em seu navegador.
 3. Insira a temperatura que deseja converter.
 4. Selecione a escala de origem (Celsius, Fahrenheit ou Kelvin).
 5. Clique no botão "Converter" para ver os resultados.
+6. Acessar o site do projeto https://akroelgoty.github.io/Temperature-Converter/
 
 ## Contribuições
 
