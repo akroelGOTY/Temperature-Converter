@@ -104,3 +104,86 @@ p {
     background: linear-gradient(140deg, #464646d7, #0000009f);
     width: 557px;
 }
+
+/* Telas pequenas / celulares (≤ 520px) */
+@media (max-width: 520px) {
+
+  body {
+    background: linear-gradient(140deg, #68AEFF, #003EB7);
+    height: 100vh;
+    padding: 0 10px;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin: 15px 0 10px;
+  }
+
+  p {
+    font-size: 1em;
+    margin: 10px 0;
+    max-width: 100%;
+    padding: 0 10px;
+  }
+
+  .container {
+    width: 100%;
+    padding: 0 5px;
+  }
+
+  .bg-container-linear-gradient {
+    width: 100%;
+    max-width: 380px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 8px;
+  }
+
+  .converter input,
+  .converter select {
+    width: 100%;
+    max-width: 320px;
+    padding: 12px;
+    font-size: 1.1em;
+    margin: 12px 0;
+  }
+
+  .converter input::placeholder {
+    font-size: 1.05em;
+  }
+
+  .converter button {
+    width: 100%;
+    max-width: 320px;
+    padding: 14px 20px;
+    font-size: 1.1em;
+    margin: 20px 0 10px;
+  }
+
+  .result {
+    width: 100%;
+    max-width: 340px;
+    font-size: 1.25em;
+    padding: 12px;
+    margin: 15px auto 0;
+    border-radius: 8px;
+  }
+
+  /* Ajuste extra para telas muito pequenas (≤ 360px) */
+  @media (max-width: 360px) {
+    h1 {
+      font-size: 1.7em;
+    }
+    
+    .converter input,
+    .converter select,
+    .converter button {
+      font-size: 1em;
+      padding: 12px;
+    }
+    
+    .result {
+      font-size: 1.15em;
+    }
+  }
+}
